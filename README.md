@@ -1,7 +1,7 @@
 ## Hello, I'm [Ganilson Garcia]! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41YrLGMg7zUuk0oM/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="300">
 </p>
 
 ### Python Developer | Django | Flask | DevOps
