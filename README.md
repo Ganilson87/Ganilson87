@@ -11,7 +11,7 @@ I'm a Python developer passionate about Django and Flask frameworks. I also have
 ### Skills:
 
 - **Programming Languages:** Python, JavaScript
-- **Frameworks:** Django, Flask, React
+- **Frameworks:** Django, Flask, React, Nodejs
 - **Web Development:** HTML, CSS
 - **DevOps:** Docker, Kubernetes, CI/CD
 
